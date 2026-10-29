@@ -1,0 +1,24 @@
+{
+  "bank_rows": 308,
+  "register_rows": 308,
+  "unique_exact_amount_candidate_rows": 286,
+  "remaining_rows": 22,
+  "reference_path": "data/reference_inferred.csv",
+  "reference_warning": "If using reference_inferred.csv, labels are inferred from synthetic ID suffixes, not independently verified ground truth.",
+  "date_gap_counts": {
+    "0": 78,
+    "1": 99,
+    "2": 75,
+    "3": 31,
+    "4": 16,
+    "5": 9
+  },
+  "amount_difference_cents_counts": {
+    "0": 292,
+    "1": 5,
+    "2": 6,
+    "3": 1,
+    "4": 2,
+    "5": 2
+  }
+}

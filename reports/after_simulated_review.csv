@@ -1,0 +1,309 @@
+bank_id,register_id,status,method,confidence_score,margin,text_similarity,bank_date,register_date,bank_amount,register_amount,bank_description,register_description,warnings,alternatives,explanation
+B0047,R0047,validated,human,,,,2023-01-01,2022-12-31,46.48,46.48,BP GAS #1775,Fill up,,,Human-validated pair
+B0092,R0092,validated,human,,,,2023-01-01,2022-12-31,51.53,51.53,BP GAS #4099,Fill up,,,Human-validated pair
+B0015,R0015,validated,human,,,,2023-01-02,2022-12-31,108.21,108.21,CAFE #6311,Dinner out,,,Human-validated pair
+B0084,R0084,validated,human,,,,2023-01-02,2022-12-30,137.35,137.35,TRADER JOES,Groceries,,,Human-validated pair
+B0142,R0142,validated,human,,,,2023-01-04,2023-01-01,198.14,198.14,KROGER #6864,Food shopping,,,Human-validated pair
+B0251,R0251,validated,human,,,,2023-01-09,2023-01-07,158.43,158.43,KROGER #5496,Grocery store,,,Human-validated pair
+B0017,R0017,validated,human,,,,2023-01-10,2023-01-10,72.16,72.16,bp gas #7420,Fuel,,,Human-validated pair
+B0110,R0110,proposed,learned,0.800374,0.180374,0.840142,2023-01-12,2023-01-10,147.29,147.33,ONLINE PMT WATER,Electric bill,amount_difference:4c,,Amount difference 4c; date gap 2d; text similarity 0.840
+B0124,R0124,validated,human,,,,2023-01-14,2023-01-12,19.24,19.24,AMAZON.COM,Online purchase,,,Human-validated pair
+B0184,R0184,validated,human,,,,2023-01-14,2023-01-13,147.30,147.30,WHOLE FOODS #3931,Grocery store,,,Human-validated pair
+B0105,R0105,validated,human,,,,2023-01-15,2023-01-15,247.31,247.31,AUTO INS,Car insurance,,,Human-validated pair
+B0021,R0021,validated,human,,,,2023-01-17,2023-01-16,171.26,171.26,HEALTH INS PMT,Car insurance,,,Human-validated pair
+B0120,R0120,validated,human,,,,2023-01-17,2023-01-15,142.99,142.99,ONLINE PMT ELEC CO,Water bill,,,Human-validated pair
+B0037,R0037,validated,human,,,,2023-01-19,2023-01-18,58.30,58.30,CHEVRON #9838,Gas,,,Human-validated pair
+B0220,R0220,validated,human,,,,2023-01-20,2023-01-20,20.45,20.45,MONTHLY FEE,Monthly charge,,,Human-validated pair
+B0038,R0038,validated,human,,,,2023-01-21,2023-01-20,499.15,499.15,ONLINE TRANSFER,Moved to savings,,,Human-validated pair
+B0175,R0175,validated,human,,,,2023-01-22,2023-01-21,430.01,430.01,HEALTH INS PMT,Car insurance,,,Human-validated pair
+B0282,R0282,validated,human,,,,2023-01-23,2023-01-19,290.54,290.54,EBAY PURCHASE,Amazon order,,,Human-validated pair
+B0025,R0025,validated,human,,,,2023-01-26,2023-01-26,4437.99,4437.99,DIRECT DEP PAYROLL,Salary,,,Human-validated pair
+B0028,R0028,validated,human,,,,2023-01-26,2023-01-24,153.50,153.50,ATM WD 3734,ATM cash,,,Human-validated pair
+B0023,R0023,validated,human,,,,2023-01-28,2023-01-28,37.42,37.42,SHELL #3558,Fuel,,,Human-validated pair
+B0165,R0165,validated,human,,,,2023-01-28,2023-01-27,72.69,72.69,RESTAURANT #5737,Restaurant,,,Human-validated pair
+B0029,R0029,validated,human,,,,2023-02-04,2023-02-02,130.08,130.08,ONLINE ORDER #4005,Amazon rder,,,Human-validated pair
+B0018,R0018,validated,human,,,,2023-02-05,2023-02-05,15.13,15.13,NETFLIX,Gym,,,Human-validated pair
+B0042,R0042,validated,human,,,,2023-02-05,2023-02-04,24.04,24.04,GYM MEMBERSHIP,Music subscription,,,Human-validated pair
+B0063,R0063,validated,human,,,,2023-02-05,2023-02-04,229.96,229.96,AMAZON.COM,Amazon order,,,Human-validated pair
+B0032,R0032,validated,human,,,,2023-02-07,2023-02-07,3511.77,3511.77,ACH CREDIT SALARY,Paycheck,,,Human-validated pair
+B0050,R0050,validated,human,,,,2023-02-07,2023-02-06,887.44,887.44,ONLINE TRANSFER,Internal transfer,,,Human-validated pair
+B0102,R0102,validated,human,,,,2023-02-08,2023-02-05,205.21,205.21,KROGER #9110,Groceries,,,Human-validated pair
+B0265,R0265,validated,human,,,,2023-02-08,2023-02-06,169.06,169.06,KROGER #8022,Grocery store,,,Human-validated pair
+B0230,R0230,validated,human,,,,2023-02-09,2023-02-07,35.66,35.66,CAFE #2648,Lunch,,,Human-validated pair
+B0178,R0178,validated,human,,,,2023-02-12,2023-02-11,13.15,13.15,NETFLIX,GYM,,,Human-validated pair
+B0153,R0153,proposed,learned,0.869414,0.249414,0.827012,2023-02-13,2023-02-11,86.38,86.40,BISTRO #4304,Lunch,amount_difference:2c,,Amount difference 2c; date gap 2d; text similarity 0.827
+B0002,R0002,validated,human,,,,2023-02-14,2023-02-13,36.27,36.27,CHEVRON #1860,Gas,,,Human-validated pair
+B0186,R0186,validated,human,,,,2023-02-14,2023-02-12,116.92,116.92,DINER #1197,Dinner out,,,Human-validated pair
+B0189,R0189,validated,human,,,,2023-02-14,2023-02-13,103.15,103.15,ONLINE ORDER #7287,Online shopping,,,Human-validated pair
+B0260,R0260,validated,human,,,,2023-02-17,2023-02-16,126.19,126.19,ATM WITHDRAWAL #9754,Cash withdrawal,,,Human-validated pair
+B0083,R0083,validated,human,,,,2023-02-20,2023-02-20,25.64,25.64,MONTHLY FEE,Bank fee,,,Human-validated pair
+B0159,R0159,validated,human,,,,2023-02-21,2023-02-21,1357.67,1357.67,XFER TO SAVINGS,Transfer,,,Human-validated pair
+B0034,R0034,validated,human,,,,2023-02-24,2023-02-23,100.83,100.83,TRADER JOES,Food shopping,,,Human-validated pair
+B0198,R0198,validated,human,,,,2023-02-24,2023-02-21,83.90,83.90,EBAY PURCHASE,Amazon order,,,Human-validated pair
+B0126,R0126,validated,human,,,,2023-02-25,2023-02-21,158.59,158.59,AMAZON.COM,Online purchase,,,Human-validated pair
+B0207,R0207,validated,human,,,,2023-02-26,2023-02-21,625.33,625.33,CHECK #3385,Paid by check,,,Human-validated pair
+B0001,R0001,validated,human,,,,2023-02-27,2023-02-26,226.34,226.34,AMAZON.COM,Online purchase,,,Human-validated pair
+B0238,R0238,validated,human,,,,2023-02-27,2023-02-27,392.84,392.84,INSURANCE PMT,Insuranc payment,,,Human-validated pair
+B0065,R0065,validated,human,,,,2023-02-28,2023-02-28,1932.97,1932.97,ONLINE TRANSFER,Moved to savings,,,Human-validated pair
+B0291,R0291,validated,human,,,,2023-02-28,2023-02-25,115.32,115.32,AMAZON.COM,Online purchase,,,Human-validated pair
+B0231,R0231,validated,human,,,,2023-03-01,2023-02-27,44.51,44.51,RESTAURANT #6539,Eating out,,,Human-validated pair
+B0122,R0122,validated,human,,,,2023-03-06,2023-03-05,59.07,59.07,SAFEWAY #7019,Food shopping,,,Human-validated pair
+B0125,R0125,validated,human,,,,2023-03-06,2023-03-04,137.87,137.87,ATM WITHDRAWAL #7374,Cash,,,Human-validated pair
+B0157,R0157,validated,human,,,,2023-03-07,2023-03-05,91.77,91.77,RESTAURANT #7585,Eating out,,,Human-validated pair
+B0036,R0036,validated,human,,,,2023-03-08,2023-03-07,407.01,407.01,XFER TO SAVINGS,moved to savings,,,Human-validated pair
+B0133,R0133,validated,human,,,,2023-03-08,2023-03-08,33.45,33.45,GYM MEMBERSHIP,Music subscription,,,Human-validated pair
+B0269,R0269,validated,human,,,,2023-03-09,2023-03-09,2874.78,2874.78,DIRECT DEPOSIT,MONTHLY SALARY,,,Human-validated pair
+B0308,R0308,validated,human,,,,2023-03-09,2023-03-06,115.81,115.81,MISC TRANSACTION 9096,Other expense,,,Human-validated pair
+B0173,R0173,validated,human,,,,2023-03-10,2023-03-10,58.47,58.47,CAFE #2707,Eating out,,,Human-validated pair
+B0202,R0202,validated,human,,,,2023-03-10,2023-03-09,94.11,94.11,DINER #9680,Dinner out,,,Human-validated pair
+B0174,R0174,validated,human,,,,2023-03-11,2023-03-11,191.79,191.79,WHOLE FOODS #6791,Grocery store,,,Human-validated pair
+B0188,R0188,proposed,learned,0.850989,0.230989,0.286066,2023-03-13,2023-03-12,207.03,207.04,TRADER JOES,Weekly groceries,amount_difference:1c,,Amount difference 1c; date gap 1d; text similarity 0.286
+B0244,R0244,validated,human,,,,2023-03-15,2023-03-10,923.27,923.27,CK #6699,Paid by check,,,Human-validated pair
+B0051,R0051,validated,human,,,,2023-03-17,2023-03-17,228.00,228.00,WHOLE FOODS #4943,Weekly groceries,,,Human-validated pair
+B0123,R0123,validated,human,,,,2023-03-17,2023-03-17,626.82,626.82,ONLINE TRANSFER,Internal transfer,,,Human-validated pair
+B0081,R0081,validated,human,,,,2023-03-18,2023-03-16,62.46,62.46,KROGER #3568,Food shopping,,,Human-validated pair
+B0056,R0056,validated,human,,,,2023-03-20,2023-03-17,157.81,157.81,CK #8989,Check #8989,,,Human-validated pair
+B0268,R0268,validated,human,,,,2023-03-20,2023-03-16,105.25,105.25,AMAZON.COM,Online shopping,,,Human-validated pair
+B0187,R0187,validated,human,,,,2023-03-22,2023-03-20,200.63,200.63,ONLINE PMT ELEC CO,Water bill,,,Human-validated pair
+B0181,R0181,validated,human,,,,2023-03-23,2023-03-21,228.50,228.50,CK #5389,Check payment,,,Human-validated pair
+B0200,R0200,validated,human,,,,2023-03-23,2023-03-20,249.17,249.17,TRADER JOES,Weekly groceries,,,Human-validated pair
+B0303,R0303,validated,human,,,,2023-03-28,2023-03-23,490.55,490.55,MISC TRANSACTION 4009,Other expense,,,Human-validated pair
+B0061,R0061,validated,human,,,,2023-04-04,2023-04-04,45.41,45.41,EXXON #1995,Gas station,,,Human-validated pair
+B0072,R0072,validated,human,,,,2023-04-04,2023-04-03,45.15,45.15,DINER #5859,Restaurant,,,Human-validated pair
+B0288,R0288,validated,human,,,,2023-04-06,2023-04-03,126.09,126.09,SAFEWAY #2184,Weekly groceries,,,Human-validated pair
+B0152,R0152,validated,human,,,,2023-04-07,2023-04-04,187.43,187.43,AMAZON.COM,Online shopping,,,Human-validated pair
+B0096,R0096,validated,human,,,,2023-04-08,2023-04-06,73.28,73.28,RESTAURANT #8215,Restaurant,,,Human-validated pair
+B0258,R0258,validated,human,,,,2023-04-09,2023-04-07,212.12,212.12,KROGER #2693,Groceries,,,Human-validated pair
+B0109,R0109,validated,human,,,,2023-04-12,2023-04-11,225.07,225.07,ONLINE PMT GAS CO,Water bill,,,Human-validated pair
+B0041,R0041,validated,human,,,,2023-04-13,2023-04-10,116.68,116.68,SAFEWAY#8513,Food shopping,,,Human-validated pair
+B0245,R0245,validated,human,,,,2023-04-15,2023-04-13,177.57,177.57,TRADER JOES,Groceries,,,Human-validated pair
+B0301,R0301,validated,human,,,,2023-04-16,2023-04-16,306.53,306.53,MISC TRANSACTION 5014,Other expense,,,Human-validated pair
+B0263,R0263,validated,human,,,,2023-04-17,2023-04-15,60.37,60.37,ATM 1225 CASH,Cash withdrawal,,,Human-validated pair
+B0158,R0158,validated,human,,,,2023-04-20,2023-04-18,239.27,239.27,SAFEWAY #2291,Food shopping,,,Human-validated pair
+B0289,R0289,validated,human,,,,2023-04-20,2023-04-17,350.51,350.51,CHECK #4327,Paid by check,,,Human-validated pair
+B0004,R0004,validated,human,,,,2023-04-21,2023-04-19,65.95,65.95,TRADER JOES,Grocery store,,,Human-validated pair
+B0140,R0140,validated,human,,,,2023-04-21,2023-04-19,99.35,99.35,ONLINE PMT GAS CO,Utilities,,,Human-validated pair
+B0201,R0201,validated,human,,,,2023-04-21,2023-04-19,54.97,54.97,KROGER #2843,Grocery store,,,Human-validated pair
+B0233,R0233,validated,human,,,,2023-04-22,2023-04-22,186.05,186.05,ONLINE TRANSFER,Internal transfer,,,Human-validated pair
+B0020,R0020,validated,human,,,,2023-04-26,2023-04-26,114.31,114.31,safeway #4385,Food shopping,,,Human-validated pair
+B0131,R0131,validated,human,,,,2023-04-27,2023-04-26,251.68,251.68,AUTO INS,Health insurance,,,Human-validated pair
+B0076,R0076,proposed,learned,0.947867,0.327867,0.809115,2023-04-29,2023-04-29,192.86,192.86,SAFEWAY #8208,Food shopping,,,Amount difference 0c; date gap 0d; text similarity 0.809
+B0259,R0259,validated,human,,,,2023-05-05,2023-05-03,100.49,100.49,AMAZON.COM,Online purchase,,,Human-validated pair
+B0276,R0276,validated,human,,,,2023-05-05,2023-05-02,122.18,122.18,EBAY PURCHASE,Online shopping,,,Human-validated pair
+B0287,R0287,validated,human,,,,2023-05-05,2023-05-04,158.14,158.14,KROGER #7102,Weekly groceries,,,Human-validated pair
+B0299,R0299,proposed,learned,0.893303,0.273303,0.829602,2023-05-07,2023-05-06,1762.14,1762.12,ONLINE TRANSFER,Move to savings,amount_difference:2c,,Amount difference 2c; date gap 1d; text similarity 0.830
+B0163,R0163,validated,human,,,,2023-05-09,2023-05-09,176.44,176.44,WHOLE FOODS #4696,Groceries,,,Human-validated pair
+B0080,R0080,validated,human,,,,2023-05-10,2023-05-09,51.94,51.94,ATM 9006 CASH,Cash withdrawal,,,Human-validated pair
+B0279,R0279,validated,human,,,,2023-05-10,2023-05-09,191.62,191.62,WHOLE FOODS #1301,Weekly groceries,,,Human-validated pair
+B0216,R0216,validated,human,,,,2023-05-12,2023-05-08,75.99,75.99,EBAY PURCHASE,Online purchase,,,Human-validated pair
+B0223,R0223,validated,human,,,,2023-05-12,2023-05-10,19.01,19.01,EBAY PURCHASE,Online purchase,,,Human-validated pair
+B0086,R0086,validated,human,,,,2023-05-17,2023-05-16,59.64,59.64,TRADER JOES,Grocery store,,,Human-validated pair
+B0093,R0093,validated,human,,,,2023-05-17,2023-05-16,235.17,235.17,kroger #7278,Groceries,,,Human-validated pair
+B0010,R0010,validated,human,,,,2023-05-18,2023-05-18,45.04,45.04,DINER #9322,Lunch,,,Human-validated pair
+B0246,R0246,validated,human,,,,2023-05-18,2023-05-17,208.63,208.63,ATM WITHDRAWAL #5493,ATM cash,,,Human-validated pair
+B0150,R0150,validated,human,,,,2023-05-21,2023-05-21,768.69,768.69,ACH TRANSFER,Moved to savings,,,Human-validated pair
+B0180,R0180,validated,human,,,,2023-05-21,2023-05-19,118.10,118.10,RESTAURANT #9958,Eating out,,,Human-validated pair
+B0193,R0193,validated,human,,,,2023-05-21,2023-05-21,60.00,60.00,SHELL #1659,Fuel,,,Human-validated pair
+B0007,R0007,validated,human,,,,2023-05-23,2023-05-22,85.39,85.39,DINER #1466,Restaurant,,,Human-validated pair
+B0071,R0071,validated,human,,,,2023-05-23,2023-05-22,2987.73,2987.73,DIRECT DEPOSIT,Monthly salary,,,Human-validated pair
+B0155,R0155,validated,human,,,,2023-05-26,2023-05-25,93.75,93.75,CAFE #6232,Restaurant,,,Human-validated pair
+B0055,R0055,validated,human,,,,2023-05-27,2023-05-27,3043.43,3043.43,DIRECT DEPOSIT,Paycheck,,,Human-validated pair
+B0111,R0111,validated,human,,,,2023-05-27,2023-05-27,34.27,34.27,NETFLIX,Gym,,,Human-validated pair
+B0176,R0176,proposed,learned,0.795256,0.175256,0.332624,2023-05-27,2023-05-25,221.74,221.76,TRADER JOES,Groceries,amount_difference:2c,,Amount difference 2c; date gap 2d; text similarity 0.333
+B0104,R0104,validated,human,,,,2023-05-28,2023-05-25,772.09,772.09,CHECK #2028,Paid y check,,,Human-validated pair
+B0108,R0108,validated,human,,,,2023-05-28,2023-05-28,37.95,37.95,BP GAS #7938,Fill up,,,Human-validated pair
+B0221,R0221,validated,human,,,,2023-05-29,2023-05-29,117.61,117.61,ONLINE TRANSFER,Moved to savings,,,Human-validated pair
+B0278,R0278,validated,human,,,,2023-05-30,2023-05-30,1656.03,1656.03,ACH TRANSFER,Internal transfer,,,Human-validated pair
+B0304,R0304,validated,human,,,,2023-05-30,2023-05-26,307.73,307.73,MISC TRANSACTION 8806,Other expense,,,Human-validated pair
+B0213,R0213,validated,human,,,,2023-06-02,2023-05-31,283.32,283.32,EBAY PURCHASE,Online purchase,,,Human-validated pair
+B0127,R0127,proposed,learned,0.793629,0.173629,0.852555,2023-06-04,2023-06-03,60.73,60.78,EXXON #2678,Fill up,amount_difference:5c,,Amount difference 5c; date gap 1d; text similarity 0.853
+B0049,R0049,validated,human,,,,2023-06-08,2023-06-05,825.91,825.91,CHECK #4152,Check payment,,,Human-validated pair
+B0146,R0146,validated,human,,,,2023-06-08,2023-06-06,57.25,57.25,CAFE #6530,DINNER OUT,,,Human-validated pair
+B0094,R0094,validated,human,,,,2023-06-09,2023-06-09,158.21,158.21,WHOLE FOODS #9392,Weekly groceries,,,Human-validated pair
+B0285,R0285,validated,human,,,,2023-06-09,2023-06-08,68.26,68.26,BISTRO #1980,Restaurant,,,Human-validated pair
+B0045,R0045,validated,human,,,,2023-06-10,2023-06-09,220.13,220.13,EBAY PURCHASE,Online purchase,,,Human-validated pair
+B0192,R0192,validated,human,,,,2023-06-15,2023-06-14,115.93,115.93,TRADER JOES,Groceries,,,Human-validated pair
+B0211,R0211,validated,human,,,,2023-06-16,2023-06-12,164.76,164.76,AMAZON.COM,Online shopping,,,Human-validated pair
+B0270,R0270,validated,human,,,,2023-06-16,2023-06-12,18.52,18.52,AMAZON.COM,Online purchase,,,Human-validated pair
+B0274,R0274,validated,human,,,,2023-06-18,2023-06-17,23.38,23.38,NETFLIX,Gym,,,Human-validated pair
+B0101,R0101,validated,human,,,,2023-06-19,2023-06-18,264.14,264.14,ONLINE ORDER #056,Online shopping,,,Human-validated pair
+B0261,R0261,validated,human,,,,2023-06-19,2023-06-18,270.02,270.02,AMAZON.COM,Amazon order,,,Human-validated pair
+B0090,R0090,validated,human,,,,2023-06-20,2023-06-19,88.66,88.66,DINER #4561,Eating out,,,Human-validated pair
+B0137,R0137,validated,human,,,,2023-06-23,2023-06-22,81.04,81.04,online pmt water,utilities,,,Human-validated pair
+B0204,R0204,validated,human,,,,2023-06-23,2023-06-22,1534.43,1534.43,XFER TO SAVINGS,Moved to savngs,,,Human-validated pair
+B0098,R0098,validated,human,,,,2023-06-26,2023-06-25,57.08,57.08,EXXON #9996,Gas station,,,Human-validated pair
+B0147,R0147,validated,human,,,,2023-06-28,2023-06-27,1482.02,1482.02,ONLINE TRANSFER,Transfer,,,Human-validated pair
+B0143,R0143,validated,human,,,,2023-07-01,2023-07-01,25.87,25.87,SUBSCRIPTION #8526,Music subscription,,,Human-validated pair
+B0172,R0172,validated,human,,,,2023-07-02,2023-07-02,116.54,116.54,ATM WD 6172,Cash withdrawal,,,Human-validated pair
+B0121,R0121,validated,human,,,,2023-07-03,2023-07-02,128.47,128.47,AAZON.COM,Online shopping,,,Human-validated pair
+B0295,R0295,validated,human,,,,2023-07-03,2023-07-03,155.69,155.69,ATM 1569 CASH,Cash,,,Human-validated pair
+B0006,R0006,proposed,learned,0.836882,0.216882,0.854716,2023-07-05,2023-07-05,38.17,38.14,GYM MEMBERSHIP,Music subscription,amount_difference:3c,,Amount difference 3c; date gap 0d; text similarity 0.855
+B0203,R0203,validated,human,,,,2023-07-05,2023-07-03,60.07,60.07,TRADER JOES,Groceries,,,Human-validated pair
+B0113,R0113,validated,human,,,,2023-07-06,2023-07-04,40.69,40.69,ONLINE ORDER #8721,Online shopping,,,Human-validated pair
+B0114,R0114,validated,human,,,,2023-07-07,2023-07-06,68.22,68.22,EXXON #8035,Gas station,,,Human-validated pair
+B0182,R0182,validated,human,,,,2023-07-07,2023-07-04,124.11,124.11,ONLINE ORDER #3327,Amazon order,,,Human-validated pair
+B0290,R0290,validated,human,,,,2023-07-07,2023-07-05,85.40,85.40,KROGER #4394,Grocery store,,,Human-validated pair
+B0132,R0132,validated,human,,,,2023-07-11,2023-07-10,185.80,185.80,WHOLE FOODS 4157,Groceries,,,Human-validated pair
+B0235,R0235,validated,human,,,,2023-07-13,2023-07-12,32.62,32.62,CAFE #6592,Restaurant,,,Human-validated pair
+B0209,R0209,validated,human,,,,2023-07-14,2023-07-14,42.86,42.86,SPOTIFY,Streaming service,,,Human-validated pair
+B0215,R0215,validated,human,,,,2023-07-14,2023-07-13,67.74,67.74,CHEVRON #1262,Gas station,,,Human-validated pair
+B0100,R0100,validated,human,,,,2023-07-15,2023-07-14,49.53,49.53,NETFLIX,Monthly subscription,,,Human-validated pair
+B0044,R0044,validated,human,,,,2023-07-17,2023-07-16,97.22,97.22,WHOLE FOODS #7235,food shopping,,,Human-validated pair
+B0059,R0059,validated,human,,,,2023-07-19,2023-07-18,207.28,207.28,ATM WD 1161,ATM cash,,,Human-validated pair
+B0264,R0264,validated,human,,,,2023-07-19,2023-07-16,124.40,124.40,online order #5893,Online purchase,,,Human-validated pair
+B0141,R0141,validated,human,,,,2023-07-22,2023-07-22,46.58,46.58,SAFEWAY #7776,Food shopping,,,Human-validated pair
+B0066,R0066,validated,human,,,,2023-07-23,2023-07-21,43.84,43.84,CAFE #8892,Dinner out,,,Human-validated pair
+B0026,R0026,proposed,learned,0.927478,0.307478,0.952662,2023-07-25,2023-07-25,16.58,16.57,SUBSCRIPTION #3747,Gym,amount_difference:1c,,Amount difference 1c; date gap 0d; text similarity 0.953
+B0196,R0196,validated,human,,,,2023-07-27,2023-07-23,508.19,508.19,CHECK #7546,Check #7546,,,Human-validated pair
+B0227,R0227,validated,human,,,,2023-07-27,2023-07-25,186.51,186.51,TRADER JOES,Grocery store,,,Human-validated pair
+B0154,R0154,validated,human,,,,2023-07-29,2023-07-28,89.50,89.50,DINER #4763,Dinner out,,,Human-validated pair
+B0040,R0040,validated,human,,,,2023-07-30,2023-07-30,606.93,606.93,ONLINE TRANSFER,Moved to savings,,,Human-validated pair
+B0306,R0306,validated,human,,,,2023-07-30,2023-07-30,496.62,496.62,MISC TRANSACTION 2409,Other expense,,,Human-validated pair
+B0232,R0232,proposed,learned,0.98126,0.36126,0.875064,2023-08-01,2023-07-31,57.56,57.56,BP GAS #5199,Gas,,,Amount difference 0c; date gap 1d; text similarity 0.875
+B0243,R0243,validated,human,,,,2023-08-02,2023-07-28,234.30,234.30,CK #9352,Check payment,,,Human-validated pair
+B0058,R0058,validated,human,,,,2023-08-03,2023-08-01,96.01,96.01,CAFE #6675,Eating out,,,Human-validated pair
+B0138,R0138,validated,human,,,,2023-08-03,2023-08-02,57.39,57.39,DINER #6592,Dinner out,,,Human-validated pair
+B0062,R0062,validated,human,,,,2023-08-04,2023-08-03,221.93,221.93,ONLINE PMT WATER,Electric bill,,,Human-validated pair
+B0024,R0024,validated,human,,,,2023-08-05,2023-08-04,102.10,102.10,WHOLE FOODS #8849,Weekly groceries,,,Human-validated pair
+B0134,R0134,validated,human,,,,2023-08-05,2023-08-05,1939.96,1939.96,ACH TRANSFER,Transfer,,,Human-validated pair
+B0136,R0136,validated,human,,,,2023-08-08,2023-08-08,169.84,169.84,TRADER JOES,Groceries,,,Human-validated pair
+B0144,R0144,validated,human,,,,2023-08-08,2023-08-04,217.21,217.21,AMAZON.COM,Online shopping,,,Human-validated pair
+B0170,R0170,validated,human,,,,2023-08-08,2023-08-08,184.52,184.52,ONLINE PMT GAS CO,Gas bill,,,Human-validated pair
+B0272,R0272,validated,human,,,,2023-08-11,2023-08-09,131.33,131.33,WHOLE FOODS #8339,Grocery store,,,Human-validated pair
+B0033,R0033,validated,human,,,,2023-08-13,2023-08-11,170.39,170.39,WHOLE FOODS #2267,Grocey store,,,Human-validated pair
+B0177,R0177,validated,human,,,,2023-08-14,2023-08-13,57.21,57.21,BISTRO #4510,Restaurant,,,Human-validated pair
+B0082,R0082,validated,human,,,,2023-08-15,2023-08-14,408.05,408.05,AUTO INS,Health insurance,,,Human-validated pair
+B0128,R0128,validated,human,,,,2023-08-16,2023-08-16,419.78,419.78,INSURANCE PMT,Insurance payment,,,Human-validated pair
+B0183,R0183,validated,human,,,,2023-08-16,2023-08-16,79.52,79.52,BISTRO #9004,Restaurant,,,Human-validated pair
+B0296,R0296,validated,human,,,,2023-08-16,2023-08-11,250.53,250.53,CHECK #642,Check #6442,check_reference_conflict,,Human-validated pair
+B0149,R0149,validated,human,,,,2023-08-18,2023-08-15,261.31,261.31,AMAZON.COM,Online shopping,,,Human-validated pair
+B0161,R0161,validated,human,,,,2023-08-18,2023-08-18,1114.62,1114.62,ACH TRANSFER,Transfer,,,Human-validated pair
+B0054,R0054,validated,human,,,,2023-08-19,2023-08-18,65.07,65.07,BP GAS #2021,Fill up,,,Human-validated pair
+B0164,R0164,proposed,learned,0.953511,0.333511,0.846742,2023-08-19,2023-08-17,105.05,105.05,ONLINE PMT ELEC CO,Utilities,,,Amount difference 0c; date gap 2d; text similarity 0.847
+B0286,R0286,proposed,learned,0.809627,0.189627,0.972225,2023-08-20,2023-08-16,160.46,160.48,CHECK #3975,Check #3975,amount_difference:2c,,Amount difference 2c; date gap 4d; text similarity 0.972
+B0085,R0085,validated,human,,,,2023-08-21,2023-08-19,718.65,718.65,CHECK #6258,Check #6258,,,Human-validated pair
+B0169,R0169,validated,human,,,,2023-08-23,2023-08-22,46.59,46.59,online order #8392,Online purchase,,,Human-validated pair
+B0297,R0297,validated,human,,,,2023-08-23,2023-08-22,1144.48,1144.48,ONLINE TRANSFER,Moved to savings,,,Human-validated pair
+B0005,R0005,validated,human,,,,2023-08-24,2023-08-24,34.33,34.33,MAINT FEE,Monthly charge,,,Human-validated pair
+B0069,R0069,validated,human,,,,2023-08-24,2023-08-22,195.90,195.90,HEALTH INS PMT,Health insurance,,,Human-validated pair
+B0145,R0145,validated,human,,,,2023-08-24,2023-08-21,40.12,40.12,AMAZON.COM,Online shopping,,,Human-validated pair
+B0162,R0162,validated,human,,,,2023-08-25,2023-08-24,98.92,98.92,BISTRO #2636,Lunch,,,Human-validated pair
+B0249,R0249,validated,human,,,,2023-08-27,2023-08-25,86.63,86.63,DINER #7015,Eating out,,,Human-validated pair
+B0115,R0115,validated,human,,,,2023-08-28,2023-08-28,73.86,73.86,KROGER #2484,GROCERY STORE,,,Human-validated pair
+B0089,R0089,validated,human,,,,2023-08-29,2023-08-26,232.79,232.79,KROGER #6892,Weekly groceries,,,Human-validated pair
+B0167,R0167,validated,human,,,,2023-08-29,2023-08-24,653.81,653.81,CHECK #9164,Check #9164,,,Human-validated pair
+B0250,R0250,validated,human,,,,2023-08-29,2023-08-28,32.86,32.86,SERVICE CHARGE,Bank fee,,,Human-validated pair
+B0218,R0218,validated,human,,,,2023-08-30,2023-08-30,89.71,89.71,CAFE #3049,Eating out,,,Human-validated pair
+B0234,R0234,validated,human,,,,2023-08-30,2023-08-30,3074.18,3074.18,DIRECT DEP PAYROLL,Monthly salary,,,Human-validated pair
+B0048,R0048,validated,human,,,,2023-08-31,2023-08-31,61.35,61.35,BP GAS #9226,Gas,,,Human-validated pair
+B0075,R0075,validated,human,,,,2023-08-31,2023-08-29,75.44,75.44,DINER #9684,Restaurant,,,Human-validated pair
+B0205,R0205,validated,human,,,,2023-08-31,2023-08-29,68.41,68.41,CAFE #6759,Restaurant,,,Human-validated pair
+B0074,R0074,proposed,learned,0.72607,0.10607,0.867605,2023-09-01,2023-08-27,503.36,503.34,CK #9571,Paid by check,amount_difference:2c,,Amount difference 2c; date gap 5d; text similarity 0.868
+B0262,R0262,validated,human,,,,2023-09-01,2023-08-29,28.27,28.27,EBAY PURCHASE,Online purchase,,,Human-validated pair
+B0219,R0219,validated,human,,,,2023-09-02,2023-09-02,65.24,65.24,BP GAS #6423,GAS,,,Human-validated pair
+B0225,R0225,proposed,learned,0.862973,0.242973,0.52263,2023-09-02,2023-08-31,236.84,236.83,KROGER #3255,Grocery store,amount_difference:1c,,Amount difference 1c; date gap 2d; text similarity 0.523
+B0228,R0228,validated,human,,,,2023-09-02,2023-09-01,138.27,138.27,TRADER JOES,Weekly groceries,,,Human-validated pair
+B0214,R0214,validated,human,,,,2023-09-03,2023-09-02,175.28,175.28,ONLINE PMT WATER,Water bill,,,Human-validated pair
+B0248,R0248,validated,human,,,,2023-09-03,2023-09-02,187.60,187.60,KROGER #4987,Food shopping,,,Human-validated pair
+B0275,R0275,validated,human,,,,2023-09-03,2023-09-01,81.42,81.42,TRADER JOES,Grocery store,,,Human-validated pair
+B0135,R0135,validated,human,,,,2023-09-04,2023-09-02,256.47,256.47,ONLINE ORDER #4627,Online shopping,,,Human-validated pair
+B0070,R0070,validated,human,,,,2023-09-05,2023-09-04,52.42,52.42,BP GAS #1878,Gas station,,,Human-validated pair
+B0284,R0284,validated,human,,,,2023-09-05,2023-09-05,102.72,102.72,ATM WITHDRAWAL #1190,Cash withdrawal,,,Human-validated pair
+B0035,R0035,validated,human,,,,2023-09-08,2023-09-07,71.21,71.21,SHELL #4556,Fill up,,,Human-validated pair
+B0079,R0079,validated,human,,,,2023-09-09,2023-09-09,1758.17,1758.17,ACH TRANSFER,Moved to savings,,,Human-validated pair
+B0266,R0266,validated,human,,,,2023-09-09,2023-09-09,58.80,58.80,BISTRO #6600,Lunch,,,Human-validated pair
+B0273,R0273,validated,human,,,,2023-09-11,2023-09-09,145.49,145.49,AMAZON.COM,Online shopping,,,Human-validated pair
+B0095,R0095,validated,human,,,,2023-09-13,2023-09-11,149.32,149.32,KROGER #4104,Weekly groceries,,,Human-validated pair
+B0240,R0240,validated,human,,,,2023-09-15,2023-09-13,93.00,93.00,TRADER JOES,Grocery store,,,Human-validated pair
+B0257,R0257,validated,human,,,,2023-09-15,2023-09-13,208.73,208.73,ATM WITHDRAWAL #7893,Cash withdrawal,,,Human-validated pair
+B0016,R0016,validated,human,,,,2023-09-17,2023-09-15,58.56,58.56,ONLINE ORDER #6051,Online purchase,,,Human-validated pair
+B0068,R0068,validated,human,,,,2023-09-17,2023-09-16,2525.30,2525.30,ACH CREDIT SALARY,Paycheck,,,Human-validated pair
+B0097,R0097,validated,human,,,,2023-09-17,2023-09-16,102.95,102.95,DINER #3454,Eating out,,,Human-validated pair
+B0293,R0293,validated,human,,,,2023-09-19,2023-09-16,130.74,130.74,KROGER #6854,Weekly groceries,,,Human-validated pair
+B0305,R0305,validated,human,,,,2023-09-21,2023-09-20,111.02,111.02,MISC TRANSACTION 1154,Other expense,,,Human-validated pair
+B0052,R0052,validated,human,,,,2023-09-23,2023-09-18,145.20,145.20,CHECK #8555,Check #8555,,,Human-validated pair
+B0283,R0283,validated,human,,,,2023-09-23,2023-09-23,946.98,946.98,XFER TO SAVINGS,Internal transfer,,,Human-validated pair
+B0241,R0241,validated,human,,,,2023-09-24,2023-09-22,132.86,132.86,ONLINE ORDER #3869,Online purchase,,,Human-validated pair
+B0222,R0222,validated,human,,,,2023-09-26,2023-09-25,70.57,70.57,EXXON #8158,Gas staton,,,Human-validated pair
+B0171,R0171,validated,human,,,,2023-09-27,2023-09-27,3280.91,3280.91,DIRECT DEPOSIT,Monthly salary,,,Human-validated pair
+B0236,R0236,validated,human,,,,2023-09-28,2023-09-28,94.15,94.15,RESTAURANT #1098,Dinner out,,,Human-validated pair
+B0302,R0302,validated,human,,,,2023-09-30,2023-09-26,318.59,318.59,MISC TRANSACTION 2686,Other expense,,,Human-validated pair
+B0060,R0060,validated,human,,,,2023-10-01,2023-09-30,273.47,273.47,ONLINE ORDER #5297,Amazon order,,,Human-validated pair
+B0078,R0078,validated,human,,,,2023-10-01,2023-09-28,346.88,346.88,CK #3062,Paid by check,,,Human-validated pair
+B0103,R0103,validated,human,,,,2023-10-01,2023-09-30,48.16,48.16,SUBSCRIPTION #4840,Music subscription,,,Human-validated pair
+B0280,R0280,validated,human,,,,2023-10-01,2023-09-29,112.73,112.73,BISTRO #1606,Dinner out,,,Human-validated pair
+B0281,R0281,validated,human,,,,2023-10-02,2023-09-30,341.45,341.45,INSURANCE PMT,Health insurance,,,Human-validated pair
+B0229,R0229,validated,human,,,,2023-10-03,2023-10-03,1547.53,1547.53,XFER TO SAVINGS,Transfer,,,Human-validated pair
+B0019,R0019,validated,human,,,,2023-10-04,2023-10-03,191.15,191.15,TRADER JOES,Weekly groceries,,,Human-validated pair
+B0254,R0254,validated,human,,,,2023-10-05,2023-10-05,152.41,152.41,WHOLE FOODS #9050,Groceries,,,Human-validated pair
+B0298,R0298,validated,human,,,,2023-10-05,2023-10-05,97.20,97.20,CAFE #3733,Eating out,,,Human-validated pair
+B0237,R0237,validated,human,,,,2023-10-06,2023-10-05,23.30,23.30,MONTHLY FEE,Monthly charge,,,Human-validated pair
+B0003,R0003,validated,human,,,,2023-10-07,2023-10-02,298.40,298.40,CHECK #6390,Check payment,,,Human-validated pair
+B0277,R0277,validated,human,,,,2023-10-07,2023-10-05,209.29,209.29,ONLINE ORDER #3327,Online shopping,,,Human-validated pair
+B0129,R0129,validated,human,,,,2023-10-08,2023-10-05,123.56,123.56,EBAY PURCHASE,Online shopping,,,Human-validated pair
+B0091,R0091,validated,human,,,,2023-10-09,2023-10-09,68.21,68.21,DINER #7184,Dinner out,,,Human-validated pair
+B0191,R0191,validated,human,,,,2023-10-10,2023-10-09,202.40,202.40,WHOLE FOODS #5282,Groceries,,,Human-validated pair
+B0046,R0046,validated,human,,,,2023-10-11,2023-10-11,112.61,112.61,ONLINE PMT GAS CO,Gas bill,,,Human-validated pair
+B0027,R0027,validated,human,,,,2023-10-12,2023-10-11,394.11,394.11,ONLINE TRANSFER,Internal transfer,,,Human-validated pair
+B0073,R0073,validated,human,,,,2023-10-12,2023-10-12,167.83,167.83,ONLINE PMT ELEC CO,Utilities,,,Human-validated pair
+B0053,R0053,validated,human,,,,2023-10-14,2023-10-13,73.00,73.00,EXXON #4073,Fill up,,,Human-validated pair
+B0247,R0247,validated,human,,,,2023-10-14,2023-10-12,151.63,151.63,EBAY PURCHASE,Online shoppng,,,Human-validated pair
+B0117,R0117,validated,human,,,,2023-10-15,2023-10-12,275.85,275.85,AMAZON.COM,Online purchase,,,Human-validated pair
+B0106,R0106,validated,human,,,,2023-10-17,2023-10-15,100.29,100.29,RESTAURANT #1502,Eating out,,,Human-validated pair
+B0252,R0252,validated,human,,,,2023-10-19,2023-10-19,72.43,72.43,DINER #5735,Restaurant,,,Human-validated pair
+B0022,R0022,validated,human,,,,2023-10-20,2023-10-18,291.80,291.80,AUTO INS,Insurance payment,,,Human-validated pair
+B0099,R0099,validated,human,,,,2023-10-20,2023-10-17,92.88,92.88,WHOLE FOODS #3731,Grocery store,,,Human-validated pair
+B0195,R0195,review_required,learned,0.656218,0.036218,0.247058,2023-10-20,2023-10-17,171.71,171.75,TRADER JOES,Grocery store,amount_difference:4c|low_confidence_score,,Amount difference 4c; date gap 3d; text similarity 0.247
+B0271,R0271,validated,human,,,,2023-10-20,2023-10-19,185.49,185.49,TRADER JOES,Grocery store,,,Human-validated pair
+B0226,R0226,validated,human,,,,2023-10-21,2023-10-21,16.54,16.54,MONTHLY FEE,Bank fee,,,Human-validated pair
+B0190,R0190,validated,human,,,,2023-10-22,2023-10-22,15.00,15.00,SPOTIFY,Monthly subscription,,,Human-validated pair
+B0208,R0208,validated,human,,,,2023-10-24,2023-10-24,1470.66,1470.66,ONLINE TRANSFER,Internal transfer,,,Human-validated pair
+B0043,R0043,validated,human,,,,2023-10-25,2023-10-23,52.84,52.84,TRADER JOES,Grocery store,,,Human-validated pair
+B0012,R0012,validated,human,,,,2023-10-26,2023-10-25,59.39,59.39,CAE #1769,Eating out,,,Human-validated pair
+B0030,R0030,validated,human,,,,2023-10-26,2023-10-23,281.39,281.39,ONLINE ORDER #5658,Online shopping,,,Human-validated pair
+B0107,R0107,validated,human,,,,2023-10-26,2023-10-26,219.66,219.66,AUTO INS,Car insurance,,,Human-validated pair
+B0057,R0057,validated,human,,,,2023-10-27,2023-10-27,1727.79,1727.79,ACH TRANSFER,Moved to savings,,,Human-validated pair
+B0217,R0217,validated,human,,,,2023-10-28,2023-10-26,84.10,84.10,ONLINE ORDER #9815,Amazon order,,,Human-validated pair
+B0077,R0077,validated,human,,,,2023-10-29,2023-10-28,34.51,34.51,SERVICE CHARGE,Bank fee,,,Human-validated pair
+B0300,R0300,validated,human,,,,2023-10-29,2023-10-28,44.43,44.43,SUBSCRIPTION #8455,Streaming service,,,Human-validated pair
+B0292,R0292,validated,human,,,,2023-10-30,2023-10-29,206.55,206.55,AMAZON.COM,Online shopping,,,Human-validated pair
+B0067,R0067,validated,human,,,,2023-11-04,2023-11-02,816.60,816.60,CHECK #7863,Check #7863,,,Human-validated pair
+B0148,R0148,validated,human,,,,2023-11-05,2023-11-04,200.84,200.84,SAFEWAY #4748,Weekly groceries,,,Human-validated pair
+B0179,R0179,validated,human,,,,2023-11-05,2023-11-03,65.48,65.48,DINER #5218,Eating out,,,Human-validated pair
+B0088,R0088,validated,human,,,,2023-11-06,2023-11-05,27.46,27.46,RESTAURANT #1391,Restaurant,,,Human-validated pair
+B0197,R0197,validated,human,,,,2023-11-07,2023-11-07,54.70,54.70,DINER #2986,Eating out,,,Human-validated pair
+B0168,R0168,validated,human,,,,2023-11-08,2023-11-07,12.78,12.78,SERVICE CHARGE,Bank fee,,,Human-validated pair
+B0185,R0185,validated,human,,,,2023-11-10,2023-11-08,187.27,187.27,SAFEWAY #8777,Groceres,,,Human-validated pair
+B0199,R0199,validated,human,,,,2023-11-12,2023-11-11,19.92,19.92,NETFLIX,Gym,,,Human-validated pair
+B0206,R0206,proposed,learned,0.951121,0.331121,0.830813,2023-11-12,2023-11-10,105.05,105.05,BISTRO #7694,Restaurant,,,Amount difference 0c; date gap 2d; text similarity 0.831
+B0256,R0256,validated,human,,,,2023-11-12,2023-11-08,202.90,202.90,EBAY PURCHASE,Amazon order,,,Human-validated pair
+B0139,R0139,validated,human,,,,2023-11-13,2023-11-13,1380.54,1380.54,XFER TO SAVINGS,Moved to savings,,,Human-validated pair
+B0267,R0267,validated,human,,,,2023-11-13,2023-11-12,4096.11,4096.11,DIRECT DEP PAYROLL,Income,,,Human-validated pair
+B0039,R0039,validated,human,,,,2023-11-14,2023-11-12,39.68,39.68,CAFE #9792,lunch,,,Human-validated pair
+B0255,R0255,validated,human,,,,2023-11-19,2023-11-19,12.71,12.71,NETFLIX,Monthly subscription,,,Human-validated pair
+B0224,R0224,validated,human,,,,2023-11-24,2023-11-20,250.69,250.69,AMAZON.COM,Online shopping,,,Human-validated pair
+B0253,R0253,validated,human,,,,2023-11-25,2023-11-24,21.52,21.52,SERVICE CHARGE,Bank fee,,,Human-validated pair
+B0011,R0011,proposed,learned,0.987448,0.367448,0.916322,2023-11-26,2023-11-25,192.86,192.86,HEALTH INS PMT,Health insurance,,,Amount difference 0c; date gap 1d; text similarity 0.916
+B0031,R0031,validated,human,,,,2023-11-27,2023-11-24,145.31,145.31,AMAZON.COM,Amazon order,,,Human-validated pair
+B0151,R0151,validated,human,,,,2023-11-27,2023-11-27,3730.02,3730.02,ACH CREDIT SALARY,Paycheck,,,Human-validated pair
+B0294,R0294,validated,human,,,,2023-11-27,2023-11-24,599.42,599.42,CHECK #7709,Check payment,,,Human-validated pair
+B0008,R0008,validated,human,,,,2023-11-28,2023-11-26,648.22,648.22,CHECK #5426,Check payment,,,Human-validated pair
+B0118,R0118,proposed,learned,0.791654,0.171654,0.839393,2023-11-29,2023-11-28,99.83,99.78,ONLINE PMT GAS CO,Electric bill,amount_difference:5c,,Amount difference 5c; date gap 1d; text similarity 0.839
+B0166,R0166,validated,human,,,,2023-11-29,2023-11-28,4082.76,4082.76,ACH CREDIT SALARY,Monthly salary,,,Human-validated pair
+B0307,R0307,validated,human,,,,2023-12-02,2023-11-30,365.64,365.64,MISC TRANSACTION 1784,Other expense,,,Human-validated pair
+B0194,R0194,validated,human,,,,2023-12-04,2023-12-02,217.72,217.72,whole foods #3811,Groceries,,,Human-validated pair
+B0064,R0064,proposed,learned,0.955528,0.335528,0.860193,2023-12-09,2023-12-09,57.56,57.56,BP GAS #8869,Gas station,,,Amount difference 0c; date gap 0d; text similarity 0.860
+B0116,R0116,validated,human,,,,2023-12-11,2023-12-09,88.87,88.87,DINER #8858,Dinner out,,,Human-validated pair
+B0239,R0239,proposed,learned,0.907576,0.287576,0.663309,2023-12-11,2023-12-10,84.75,84.74,ONLINE ORDER #5973,Amazon order,amount_difference:1c,,Amount difference 1c; date gap 1d; text similarity 0.663
+B0212,R0212,validated,human,,,,2023-12-13,2023-12-11,89.67,89.67,DINER #7616,Eating out,,,Human-validated pair
+B0242,R0242,review_required,learned,0.700573,0.080573,0.445197,2023-12-14,2023-12-10,173.42,173.40,ONLINE ORDER #1956,Online purchase,amount_difference:2c|low_confidence_score,,Amount difference 2c; date gap 4d; text similarity 0.445
+B0013,R0013,validated,human,,,,2023-12-15,2023-12-12,167.26,167.26,KROGER #7949,Grocery store,,,Human-validated pair
+B0014,R0014,validated,human,,,,2023-12-15,2023-12-13,52.07,52.07,ATM 3433 CASH,Withdrew cash,,,Human-validated pair
+B0112,R0112,validated,human,,,,2023-12-15,2023-12-13,194.05,194.05,ONLINE ORDER #6977,Amazon order,,,Human-validated pair
+B0009,R0009,validated,human,,,,2023-12-19,2023-12-17,210.12,210.12,AMAZON.COM,Amazon order,,,Human-validated pair
+B0210,R0210,validated,human,,,,2023-12-20,2023-12-20,63.99,63.99,BISTRO #9155,Dinner out,,,Human-validated pair
+B0160,R0160,proposed,learned,0.833645,0.213645,0.170438,2023-12-21,2023-12-20,192.84,192.83,SAFEWAY #8554,Weekly groceries,amount_difference:1c,,Amount difference 1c; date gap 1d; text similarity 0.170
+B0119,R0119,validated,human,,,,2023-12-23,2023-12-19,182.39,182.39,EBAY PURCHASE,Online purchase,,,Human-validated pair
+B0156,R0156,validated,human,,,,2023-12-24,2023-12-20,51.75,51.75,AMAZON.COM,Online shopping,,,Human-validated pair
+B0087,R0087,validated,human,,,,2023-12-25,2023-12-24,240.25,240.25,ONLINE PMT GAS O,Utilities,,,Human-validated pair
+B0130,R0130,validated,human,,,,2023-12-26,2023-12-26,1720.31,1720.31,XFER TO SAVINGS,Internal transfer,,,Human-validated pair

@@ -1,0 +1,79 @@
+seed,dataset,category,correct,matches,total,precision,recall,f1,coverage
+13,original_holdout,Atm Withdrawal,4,4,4,1.0,1.0,1.0,1.0
+13,original_holdout,Bank Fee,3,3,3,1.0,1.0,1.0,1.0
+13,original_holdout,Check Payment,4,4,5,1.0,0.8,0.888888888888889,0.8
+13,original_holdout,Gas Station,7,7,7,1.0,1.0,1.0,1.0
+13,original_holdout,Grocery,22,22,22,1.0,1.0,1.0,1.0
+13,original_holdout,Insurance,3,3,3,1.0,1.0,1.0,1.0
+13,original_holdout,Miscellaneous,1,1,1,1.0,1.0,1.0,1.0
+13,original_holdout,Online Purchase,16,16,16,1.0,1.0,1.0,1.0
+13,original_holdout,Payroll,2,2,2,1.0,1.0,1.0,1.0
+13,original_holdout,Restaurant,10,10,10,1.0,1.0,1.0,1.0
+13,original_holdout,Subscription,6,6,6,1.0,1.0,1.0,1.0
+13,original_holdout,Transfer,9,9,9,1.0,1.0,1.0,1.0
+13,original_holdout,Utility,4,4,4,1.0,1.0,1.0,1.0
+13,collision_stress,Atm Withdrawal,4,4,4,1.0,1.0,1.0,1.0
+13,collision_stress,Bank Fee,0,0,3,0.0,0.0,0.0,0.0
+13,collision_stress,Check Payment,4,4,5,1.0,0.8,0.888888888888889,0.8
+13,collision_stress,Gas Station,7,7,7,1.0,1.0,1.0,1.0
+13,collision_stress,Grocery,9,10,22,0.9,0.4090909090909091,0.5625000000000001,0.45454545454545453
+13,collision_stress,Insurance,3,3,3,1.0,1.0,1.0,1.0
+13,collision_stress,Miscellaneous,1,1,1,1.0,1.0,1.0,1.0
+13,collision_stress,Online Purchase,9,9,16,1.0,0.5625,0.72,0.5625
+13,collision_stress,Payroll,0,0,2,0.0,0.0,0.0,0.0
+13,collision_stress,Restaurant,8,8,10,1.0,0.8,0.888888888888889,0.8
+13,collision_stress,Subscription,4,4,6,1.0,0.6666666666666666,0.8,0.6666666666666666
+13,collision_stress,Transfer,7,7,9,1.0,0.7777777777777778,0.8750000000000001,0.7777777777777778
+13,collision_stress,Utility,4,4,4,1.0,1.0,1.0,1.0
+42,original_holdout,Atm Withdrawal,2,2,2,1.0,1.0,1.0,1.0
+42,original_holdout,Bank Fee,3,3,3,1.0,1.0,1.0,1.0
+42,original_holdout,Check Payment,7,7,7,1.0,1.0,1.0,1.0
+42,original_holdout,Gas Station,7,7,7,1.0,1.0,1.0,1.0
+42,original_holdout,Grocery,14,14,14,1.0,1.0,1.0,1.0
+42,original_holdout,Insurance,3,3,3,1.0,1.0,1.0,1.0
+42,original_holdout,Miscellaneous,1,1,1,1.0,1.0,1.0,1.0
+42,original_holdout,Online Purchase,17,17,17,1.0,1.0,1.0,1.0
+42,original_holdout,Payroll,3,3,3,1.0,1.0,1.0,1.0
+42,original_holdout,Restaurant,18,18,18,1.0,1.0,1.0,1.0
+42,original_holdout,Subscription,5,5,5,1.0,1.0,1.0,1.0
+42,original_holdout,Transfer,9,9,9,1.0,1.0,1.0,1.0
+42,original_holdout,Utility,3,3,3,1.0,1.0,1.0,1.0
+42,collision_stress,Atm Withdrawal,2,2,2,1.0,1.0,1.0,1.0
+42,collision_stress,Bank Fee,3,3,3,1.0,1.0,1.0,1.0
+42,collision_stress,Check Payment,7,7,7,1.0,1.0,1.0,1.0
+42,collision_stress,Gas Station,3,3,7,1.0,0.42857142857142855,0.6,0.42857142857142855
+42,collision_stress,Grocery,7,7,14,1.0,0.5,0.6666666666666666,0.5
+42,collision_stress,Insurance,3,3,3,1.0,1.0,1.0,1.0
+42,collision_stress,Miscellaneous,1,1,1,1.0,1.0,1.0,1.0
+42,collision_stress,Online Purchase,9,9,17,1.0,0.5294117647058824,0.6923076923076924,0.5294117647058824
+42,collision_stress,Payroll,0,0,3,0.0,0.0,0.0,0.0
+42,collision_stress,Restaurant,3,3,18,1.0,0.16666666666666666,0.2857142857142857,0.16666666666666666
+42,collision_stress,Subscription,5,5,5,1.0,1.0,1.0,1.0
+42,collision_stress,Transfer,7,7,9,1.0,0.7777777777777778,0.8750000000000001,0.7777777777777778
+42,collision_stress,Utility,3,3,3,1.0,1.0,1.0,1.0
+97,original_holdout,Atm Withdrawal,3,3,3,1.0,1.0,1.0,1.0
+97,original_holdout,Bank Fee,3,3,3,1.0,1.0,1.0,1.0
+97,original_holdout,Check Payment,8,8,8,1.0,1.0,1.0,1.0
+97,original_holdout,Gas Station,7,7,7,1.0,1.0,1.0,1.0
+97,original_holdout,Grocery,17,17,18,1.0,0.9444444444444444,0.9714285714285714,0.9444444444444444
+97,original_holdout,Insurance,4,4,4,1.0,1.0,1.0,1.0
+97,original_holdout,Miscellaneous,2,2,2,1.0,1.0,1.0,1.0
+97,original_holdout,Online Purchase,20,20,20,1.0,1.0,1.0,1.0
+97,original_holdout,Payroll,4,4,4,1.0,1.0,1.0,1.0
+97,original_holdout,Restaurant,15,15,15,1.0,1.0,1.0,1.0
+97,original_holdout,Subscription,2,2,2,1.0,1.0,1.0,1.0
+97,original_holdout,Transfer,3,3,3,1.0,1.0,1.0,1.0
+97,original_holdout,Utility,3,3,3,1.0,1.0,1.0,1.0
+97,collision_stress,Atm Withdrawal,3,3,3,1.0,1.0,1.0,1.0
+97,collision_stress,Bank Fee,3,3,3,1.0,1.0,1.0,1.0
+97,collision_stress,Check Payment,4,4,8,1.0,0.5,0.6666666666666666,0.5
+97,collision_stress,Gas Station,7,7,7,1.0,1.0,1.0,1.0
+97,collision_stress,Grocery,6,6,18,1.0,0.3333333333333333,0.5,0.3333333333333333
+97,collision_stress,Insurance,2,2,4,1.0,0.5,0.6666666666666666,0.5
+97,collision_stress,Miscellaneous,2,2,2,1.0,1.0,1.0,1.0
+97,collision_stress,Online Purchase,2,2,20,1.0,0.1,0.18181818181818182,0.1
+97,collision_stress,Payroll,0,0,4,0.0,0.0,0.0,0.0
+97,collision_stress,Restaurant,8,8,15,1.0,0.5333333333333333,0.6956521739130436,0.5333333333333333
+97,collision_stress,Subscription,2,2,2,1.0,1.0,1.0,1.0
+97,collision_stress,Transfer,2,2,3,1.0,0.6666666666666666,0.8,0.6666666666666666
+97,collision_stress,Utility,3,3,3,1.0,1.0,1.0,1.0

@@ -1,0 +1,23 @@
+{
+  "review_type": "SIMULATED; not actual human validation",
+  "reference": "data/reference_inferred.csv",
+  "remaining_pairs": 22,
+  "before": {
+    "correct": 16,
+    "matches": 16,
+    "total": 22,
+    "precision": 1.0,
+    "recall": 0.7272727272727273,
+    "f1": 0.8421052631578948,
+    "coverage": 0.7272727272727273
+  },
+  "after": {
+    "correct": 20,
+    "matches": 20,
+    "total": 22,
+    "precision": 1.0,
+    "recall": 0.9090909090909091,
+    "f1": 0.9523809523809523,
+    "coverage": 0.9090909090909091
+  }
+}

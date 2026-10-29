@@ -1,0 +1,24 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "learned-reconciliation"
+version = "0.1.0"
+description = "Financial reconciliation with paired latent semantic learning and review feedback"
+authors = [{name = "Kritika Gautam"}]
+requires-python = ">=3.10"
+dependencies = ["numpy>=1.26,<3", "scipy>=1.11,<2", "scikit-learn>=1.4,<2"]
+
+[project.optional-dependencies]
+dev = ["pytest>=8,<10", "matplotlib>=3.8,<4"]
+
+[project.scripts]
+recon = "recon.cli:main"
+
+[tool.setuptools.packages.find]
+include = ["recon*"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+
